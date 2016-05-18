@@ -1,0 +1,21 @@
+Dependencies
+--
+
+- Ruby
+- Node
+- Grunt
+
+
+Installation
+--
+
+- npm install
+- bundle install
+
+
+Usage
+--
+
+- grunt watch
+- node app.js
+- Browse http://localhost:8080
