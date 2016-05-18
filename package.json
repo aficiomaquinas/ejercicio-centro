@@ -4,7 +4,8 @@
   "description": "Ejercicio de práctica con SASS, Compass, etc.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:watch": "npm run sass:watch & npm run livereload"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/aficiomaquinas/ejercicio-centro#readme",
   "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "license-generator": "0.0.13",
     "node-static": "^0.7.7"
   }
 }
