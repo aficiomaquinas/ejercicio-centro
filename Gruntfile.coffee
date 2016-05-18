@@ -5,7 +5,7 @@ module.exports = (grunt) ->
 
 		compass:
 			options:
-				# require: ['breakpoint-slicer']
+				require: ['breakpoint-slicer', 'modular-scale']
 				cssDir: "public/css"
 				sassDir: "public/sass"
 				imagesDir: "public/img"
