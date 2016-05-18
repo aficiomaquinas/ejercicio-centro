@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio-centro",
+  "version": "1.0.0",
+  "description": "Ejercicio de práctica con SASS, Compass, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aficiomaquinas/ejercicio-centro.git"
+  },
+  "author": "Víctor González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aficiomaquinas/ejercicio-centro/issues"
+  },
+  "homepage": "https://github.com/aficiomaquinas/ejercicio-centro#readme",
+  "devDependencies": {
+    "node-static": "^0.7.7"
+  }
+}
